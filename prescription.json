@@ -1,13 +1,15 @@
-{
-  "pid": 123456787,	‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
-  "number_prescription": 4
-}
-{
-  "pid": 123456788,	‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
-  "number_prescription": 2
-}
-{
-  "pid": 123456789,	‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
-  "number_prescription": 0
-}
-  
+
+{  
+    "patient_1": {  
+        "pid": 123456787,   
+        "number_prescription":4
+    },  
+    "patient_2": {  
+        "pid": 123456788,   
+        "number_prescription":2
+    },
+    "patient_3": {  
+        "pid": 123456789,   
+        "number_prescription":0
+    }  
+}  
